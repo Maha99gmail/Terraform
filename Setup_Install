@@ -1,0 +1,56 @@
+
+    2  mkdir bin
+    3  cd bin
+    4  wget https://releases.hashicorp.com/terraform/0.12.29/terraform_0.12.29_linux_amd64.zip
+   10  unzip terraform_0.12.29_linux_amd64.zip
+   13  gunzip terraform_0.12.29_linux_amd64.zip
+   14  unzip terraform_0.12.29_linux_amd64.zip
+   15  sudo apt install unzip
+   16  unzip terraform_0.12.29_linux_amd64.zip
+   18  Terraform v0.12.29
+   19  terraform v0.12.29
+   21  cd terraform
+   22  sudo snap install terraform
+   23  terraform v0.12.29
+   24  terraform --version
+   25  ls
+   26  sudo install terraform
+   27  ls
+   28  sudo apt install terraform
+   29  terraform --version
+   30  ls
+   31  logstash
+   32  java -version
+   33  sudo apt install default-jre
+   34  wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
+   35  sudo apt-get install apt-transport-https
+   36  echo "deb https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-7.x.list
+   37  sudo apt-get update
+   38  sudo apt-get install logstash
+   39  sudo systemctl status logstash
+   40  sudo systemctl enable logstash
+   41  sudo systemctl start logstash
+   42  cd /etc/logstash
+   43  ls
+   44  sudo vi conf.d
+   45  cd ~
+   46  cd .ssh
+   47  ls
+   48  sudo vi authorized_keys
+   49  ls
+   50  cat authorized_keys
+   51  ssh-keygen
+   52  ls
+   53  cat id_rsa.pub
+   54  show ip
+   55  ipconfig
+   56  iconfig
+   57  sudo apt install ipmiutil
+   58  iconfig
+   59  ip a
+   60  ipconfig
+   61  ifconfig
+   63  sudo su
+   65  ls -atl
+   67  cd snap
+   69  cd terraform
